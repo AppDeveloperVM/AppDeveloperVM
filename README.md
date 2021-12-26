@@ -1,3 +1,6 @@
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppDeveloperVM&show_icons=true&theme=outrun)](https://github.com/anuraghazra/github-readme-stats)
+
+
 - 👋 Hi, I’m @AppDeveloperVM
 - 👀 I’m interested in having the tools for the possible problems this life has to offer
 - 🌱 I’m currently learning Ionic + Angular
@@ -24,6 +27,7 @@
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5155b5)
 ![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5155b5)
 ![](https://img.shields.io/badge/IDE-ArduinoIDE-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5155b5)
+
 
 <!---
 AppDeveloperVM/AppDeveloperVM is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
