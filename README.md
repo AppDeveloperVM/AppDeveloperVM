@@ -13,11 +13,13 @@
 ![](https://img.shields.io/badge/Code-Angular-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=22647a)
 ![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=22647a)
 ![](https://img.shields.io/badge/Code-Kotlin-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=22647a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=22647a)
 ![](https://img.shields.io/badge/Code-Arduino-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=22647a)
 
 ![](https://img.shields.io/badge/Framework-Ionic-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=49879c)
 ![](https://img.shields.io/badge/Framework-Symfony-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=49879c)
 ![](https://img.shields.io/badge/Framework-Bootstrap-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=49879c)
+![](https://img.shields.io/badge/Framework-NextJS-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=49879c)
 
 ![](https://img.shields.io/badge/IDE-VSCode-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5155b5)
 ![](https://img.shields.io/badge/IDE-NetBeans-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=5155b5)
