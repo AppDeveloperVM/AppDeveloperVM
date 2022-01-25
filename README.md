@@ -4,7 +4,7 @@
 - 👋 Hi, I’m @AppDeveloperVM
 - 👀 I’m interested in having the tools for the possible problems this life has to offer
 - 🌱 I’m currently learning Ionic + Angular
-- 💞️ I’m looking to collaborate on Web and Mobile apps
+- 💞️ I’m looking to collaborate on Web and Hybrid Mobile apps
 - 💬 A summary at https://vicm-homepage.vercel.app
 - 📫 How to reach me : Contact me via e-mail on vicmr1994@gmail.com
 
